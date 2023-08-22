@@ -1,0 +1,1 @@
+Spectator Ions are Ions that do not participate in a reaction, commonly seen in [[Precipitation Reactions]].
