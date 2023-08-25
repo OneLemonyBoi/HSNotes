@@ -104,3 +104,7 @@
 * 1711 - 22 of 31 people convicted were exonerated, allowing for their civil rights to be restored
 	* 600 British pounds given to families as restitution
 * 1957 - Remaining 9 were exonerated
+* Backsliding
+	* Can fight sinful nature, but will likely backslide into temptation
+	* Satan loves the virtuous the most! Must be diligent!
+* 
