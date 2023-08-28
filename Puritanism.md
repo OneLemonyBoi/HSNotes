@@ -75,3 +75,17 @@
 	* No reading for fun, little to no fiction
 	* No fancy language or ornateness
 	* Opposed fancy writing of [[Romanticism]]
+* Backsliding
+	* Can fight sinful nature, but will likely backslide into temptation
+	* Satan loves the virtuous the most! Must be diligent!
+* Downfall of Puritanism
+	* Theocracy: Church ruled all
+	* Inflexible: Fled persecution to persecute, could never be questioned
+	* Scientific Growth: Less reliance on superstition
+	* Urbanization & Immigration: Not everyone was a Puritan anymore
+* Fun Facts
+	* Unwanted/Unmarried Pregnancy: 10% -> 40%
+		* Fixed by wrapping them in canvas
+	* Even the puritans twerked??
+	* They drank lots of alcohol
+	* Consider the era...
