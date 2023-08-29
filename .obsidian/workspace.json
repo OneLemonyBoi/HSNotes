@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a2e2f6b760c7348",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Puritanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Puritanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Puritanism.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +151,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36f08684b95c75e0",
+  "active": "6a2e2f6b760c7348",
   "lastOpenFiles": [
-    "Salem Witch Trials.md",
+    "The Crucible Pre-Reading.md",
     "Puritanism.md",
-    "Untitled.md",
+    "Untitled.canvas",
     "Romanticism.md",
+    "Salem Witch Trials.md",
     "Realism.md",
     "Transcendentalism.md",
     "Naturalism.md",
