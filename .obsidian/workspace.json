@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1200b53cbb182261",
+        "id": "e2f5e77b1f82c901",
         "type": "tabs",
         "children": [
           {
-            "id": "36f08684b95c75e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puritanism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a2e2f6b760c7348",
+            "id": "aa586f24890f7c39",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -28,19 +16,19 @@
             }
           },
           {
-            "id": "bac2f07b1470eefd",
+            "id": "2e140e15749a9b25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modernism.md",
+                "file": "Crucible Act I.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modernism.md",
+                "file": "Crucible Act I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modernism.md",
+                "file": "Crucible Act I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modernism.md"
+                "file": "Crucible Act I.md"
               }
             }
           }
@@ -167,14 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bac2f07b1470eefd",
+  "active": "2e140e15749a9b25",
   "lastOpenFiles": [
-    "Modernism.md",
+    "Crucible Act I.md",
     "The Crucible Pre-Reading.md",
-    "Puritanism.md",
     "Untitled.canvas",
-    "Romanticism.md",
+    "Puritanism.md",
+    "Investigating Salem Witch Trials.md",
+    "Modernism.md",
     "Salem Witch Trials.md",
+    "Post-Modernism.md",
+    "Romanticism.md",
     "Realism.md",
     "Transcendentalism.md",
     "Naturalism.md",

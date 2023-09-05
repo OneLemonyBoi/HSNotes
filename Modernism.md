@@ -8,6 +8,7 @@
 	* Freedom, Equality, Science
 	* Science and technology was given more priority over religion and superstition
 * Early Modernism
+	* Came after [[Realism]]
 	* Utopian attitude towards things
 	* T.S. Eliot / Ezra Pound
 	* Expats

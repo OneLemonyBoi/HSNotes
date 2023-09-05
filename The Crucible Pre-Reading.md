@@ -23,3 +23,4 @@
 	* The Red Scare
 	* Created HUAC
 		* House Un-American Activities Committee
+* About [[Puritanism]] and acts as a cautionary tale
