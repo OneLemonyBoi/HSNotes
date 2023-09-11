@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa586f24890f7c39",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "2e140e15749a9b25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crucible Act I.md",
+                "file": "Crucible Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Crucible Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Crucible Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Crucible Notes.md"
+              }
             }
           }
         ]
@@ -150,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa586f24890f7c39",
+  "active": "2e140e15749a9b25",
   "lastOpenFiles": [
-    "Crucible Act I.md",
+    "Repeated Grammatical Errors.md",
+    "Crucible Notes.md",
     "The Crucible Pre-Reading.md",
     "Untitled.canvas",
     "Puritanism.md",
