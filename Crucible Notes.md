@@ -14,4 +14,13 @@
 	* Proctor home env is very cold (33)
 	* John Proctor and Elizabeth know that the girls are lying (54-55)
 	* Mary Warren proud of her status as an official of the court (130)
+		* **Those without power become drunk with it once suddenly achieving it**
 	* Mary Warren revealed to Elizabeth and Proctor that she was accused of witchcraft
+	* Proctor doesn't believe in witches
+	* Elizabeth gets accused, framed, and taken away by the court
+	* Hale blinded by ego
+	* Cheever is haughty and believes he's so crucial and SOOOO much better than everyone else
+		* Used to be tailor, now has power
+		* **Those without power become drunk with it once suddenly achieving it**
+	* Herrick is the same
+		* **Those without power become drunk with it once suddenly achieving it**
