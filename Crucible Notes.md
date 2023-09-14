@@ -27,4 +27,6 @@
 * Act III
 	* Danforth is worried somewhat that all the death warrants were for crimes not there
 	* Parris's reputation in danger due to Proctor so he's trying to make it seem like Proctor is lying
+	* "How were you instructed in your life? Do you not know that God damns all liars? She cannot speak. Or is it now that you lie'!"
+		* Danforth trying to save face
 	* 
