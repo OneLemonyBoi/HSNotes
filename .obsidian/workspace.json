@@ -128,6 +128,16 @@
                 "file": "Crucible Notes.md"
               }
             }
+          },
+          {
+            "id": "e3968e5ffdc9c6db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
