@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cd7de43445e1a4e3",
+        "id": "8cd30350eadeb8de",
         "type": "tabs",
         "children": [
           {
-            "id": "2b1c5f5930b7a214",
+            "id": "ab2d0a659cd103ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stoichiometry of Precipitation Reactions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "818bb0264d0e66e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redox Reactions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redox Reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redox Reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,8 +118,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0297a9a6805b2af4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "Redox Reactions.md"
+                "sortOrder": "frequency"
               }
             }
           }
@@ -161,18 +149,20 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "818bb0264d0e66e4",
+  "active": "ab2d0a659cd103ee",
   "lastOpenFiles": [
-    "Diatomic Elements.md",
+    "Redox Rules.md",
+    "Hess's Law.md",
     "Redox Reactions.md",
+    "Performing Stoichiometric Calculations.md",
+    "Precipitation Reactions.md",
     "Stoichiometry of Precipitation Reactions.md",
+    "Equation Formats.md",
     "Solubility Rules.md",
+    "Spectator Ions.md",
+    "Diatomic Elements.md",
     "Untitled.canvas",
     "Untitled",
-    "Precipitation Reactions.md",
-    "Equation Formats.md",
-    "Spectator Ions.md",
-    "Performing Stoichiometric Calculations.md",
     "2023-08-11.md"
   ]
 }

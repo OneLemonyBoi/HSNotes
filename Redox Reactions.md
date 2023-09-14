@@ -4,6 +4,7 @@
 * Reducing Agent - Electron donor; species is oxidized
 * Oxidizing Agent - Electron gainer; species is reduced
 * Reduction needs Oxidation and vice versa
+* [[Redox Rules]] used to calculate oxidation numbers
 * OIL RIG
 	* Oxidation
 	* Is

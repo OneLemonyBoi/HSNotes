@@ -5,3 +5,4 @@
 * $Pb^{2+} (aq) + 2I^- (aq) \rightarrow PbI_2 (s)$
 	* Net Ionic Equation
 	* $Na^+$ and $NO_3^-$ are spectator ions, so they aren't shown
+* $H_2O (s) \rightarrow H_2O (l)\ \Delta H_{rxn} = 6.02kJ$
