@@ -29,4 +29,9 @@
 	* Parris's reputation in danger due to Proctor so he's trying to make it seem like Proctor is lying
 	* "How were you instructed in your life? Do you not know that God damns all liars? She cannot speak. Or is it now that you lie'!"
 		* Danforth trying to save face
-	* 
+* Act IV
+	* Holy shit john proctor redemption arc !!!!!
+		* I cannot mount the gibbet like a saint. It is a fraud. .' am not that man - John Proctor
+		* No, I take my own, my own! - John Proctor
+		* I think it is honest, I think so; I am no saint. As though she had denied this he calls angrily at her: Let Rebecca go like a saint; for me it is fraud!
+		* 

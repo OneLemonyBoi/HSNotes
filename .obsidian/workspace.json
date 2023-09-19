@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apostrophe Catastrophe.md",
+                "file": "Writing Tips Hub.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apostrophe Catastrophe.md",
+                "file": "Crucible Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apostrophe Catastrophe.md",
+                "file": "Crucible Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apostrophe Catastrophe.md"
+                "file": "Crucible Notes.md"
               }
             }
           },
@@ -169,13 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "322ae858f01ebe59",
+  "active": "e10072d8a6be0d41",
   "lastOpenFiles": [
-    "Crucible Notes.md",
+    "Writing Tips Hub.md",
     "Apostrophe Catastrophe.md",
+    "Crucible Notes.md",
     "Repeated Grammatical Errors.md",
     "Notes Hub.md",
-    "Writing Tips Hub.md",
     "Characterization.md",
     "The Crucible Pre-Reading.md",
     "Untitled.canvas",
