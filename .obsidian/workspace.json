@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "e2f5e77b1f82c901",
+        "id": "1ae685881de366e9",
         "type": "tabs",
         "children": [
           {
-            "id": "e10072d8a6be0d41",
+            "id": "8327ea7fc8ed194b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "79769613f7149502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puritanism.md",
+                "file": "Literature Response Writing - Elements of an Essay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d0d1c8e63b0737a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essay Checklist - Before Submit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Puritanism.md",
+                "file": "Literature Response Writing - Elements of an Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Puritanism.md",
+                "file": "Literature Response Writing - Elements of an Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Puritanism.md"
+                "file": "Literature Response Writing - Elements of an Essay.md"
               }
             }
           },
@@ -156,10 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e10072d8a6be0d41",
+  "active": "79769613f7149502",
   "lastOpenFiles": [
-    "Writing Tips Hub.md",
+    "Essay Checklist - Before Submit.md",
+    "Literature Response Writing - Elements of an Essay.md",
     "Puritanism.md",
+    "Writing Tips Hub.md",
     "The Crucible Pre-Reading.md",
     "Transcendentalism.md",
     "Crucible Notes.md",

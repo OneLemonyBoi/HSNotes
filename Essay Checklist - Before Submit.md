@@ -1,0 +1,9 @@
+- [ ] Check for banned words (i, me, you, kinda, etc.)
+- [ ] Check to make sure all quotes are embedded
+- [ ] Check that the paragraphs flow well
+- [ ] Check that word count is < 1000
+- [ ] Check that there are 6 quotes
+- [ ] Check for spelling errors by reading it out and having 3 people review it
+- [ ] Check for proper citing of page numbers in quotes
+- [ ] Check for present literary tense in quotes and normal writing
+- [ ] Grammarly it to check for **spelling issues ONLY**
