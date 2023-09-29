@@ -8,20 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8327ea7fc8ed194b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "79769613f7149502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Response Writing - Elements of an Essay.md",
+                "file": "Writing Tips Hub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dba081656f2190f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introductions & Conclusions & Theses.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Response Writing - Elements of an Essay.md",
+                "file": "Introductions & Conclusions & Theses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Response Writing - Elements of an Essay.md",
+                "file": "Introductions & Conclusions & Theses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Response Writing - Elements of an Essay.md"
+                "file": "Introductions & Conclusions & Theses.md"
               }
             }
           },
@@ -177,12 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79769613f7149502",
+  "active": "1dba081656f2190f",
   "lastOpenFiles": [
-    "Essay Checklist - Before Submit.md",
-    "Literature Response Writing - Elements of an Essay.md",
-    "Puritanism.md",
     "Writing Tips Hub.md",
+    "Introductions & Conclusions & Theses.md",
+    "Literature Response Writing - Elements of an Essay.md",
+    "Essay Checklist - Before Submit.md",
+    "Puritanism.md",
     "The Crucible Pre-Reading.md",
     "Transcendentalism.md",
     "Crucible Notes.md",
