@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductions & Conclusions & Theses.md",
+                "file": "Essay Checklist - Before Submit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductions & Conclusions & Theses.md",
+                "file": "Essay Checklist - Before Submit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductions & Conclusions & Theses.md"
+                "file": "Essay Checklist - Before Submit.md"
               }
             }
           },
@@ -181,10 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dba081656f2190f",
+  "active": "2d0d1c8e63b0737a",
   "lastOpenFiles": [
-    "Writing Tips Hub.md",
     "Introductions & Conclusions & Theses.md",
+    "Writing Tips Hub.md",
     "Literature Response Writing - Elements of an Essay.md",
     "Essay Checklist - Before Submit.md",
     "Puritanism.md",
