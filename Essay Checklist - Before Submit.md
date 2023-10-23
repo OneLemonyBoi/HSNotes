@@ -1,11 +1,11 @@
-- [x] Check for banned words (i, me, you, kinda, etc.)
-- [x] Check to make sure all quotes are embedded
-- [x] Check that the paragraphs flow well
-- [x] Check that word count is < 1000
-- [x] Check that there are >2 quotes per paragraph
-- [x] Check for spelling errors by reading it out and having 3 people review it
-- [x] Check for proper citing of page numbers in quotes
-- [x] Check for present literary tense in quotes and normal writing
-- [x] Grammarly it to check for **spelling issues ONLY**
-- [x] Check for Passive Voice
-- [x] Avoid Be Verbs - Is, Am, Are, Was, Were, Be, Being, Been
+- [ ] Check for banned words (i, me, you, kinda, etc.)
+- [ ] Check to make sure all quotes are embedded
+- [ ] Check that the paragraphs flow well
+- [ ] Check that word count is < 1000
+- [ ] Check that there are >2 quotes per paragraph
+- [ ] Check for spelling errors by reading it out and having 3 people review it
+- [ ] Check for proper citing of page numbers in quotes
+- [ ] Check for present literary tense in quotes and normal writing
+- [ ] Grammarly it to check for **spelling issues ONLY**
+- [ ] Check for Passive Voice
+- [ ] Avoid Be Verbs - Is, Am, Are, Was, Were, Be, Being, Been

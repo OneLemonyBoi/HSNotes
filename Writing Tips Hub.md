@@ -3,3 +3,4 @@
 [[Apostrophe Catastrophe]]
 [[Literature Response Writing - Elements of an Essay]]
 [[Introductions & Conclusions & Theses]]
+[[Essay Checklist - Before Submit]]
