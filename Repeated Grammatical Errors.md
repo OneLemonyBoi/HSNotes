@@ -40,3 +40,7 @@
 * a part vs apart
 	* a part -> a part of something
 	* apart -> separated from something
+* lie vs lay
+	* present | past | present participle | past participle
+	* lie -> lay -> lying -> has lain
+	* lay -> laid -> laying -> has laid

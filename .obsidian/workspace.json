@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rationalism.md",
+                "file": "Repeated Grammatical Errors.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "strive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rationalism.md",
+                "file": "Repeated Grammatical Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rationalism.md",
+                "file": "Repeated Grammatical Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rationalism.md"
+                "file": "Repeated Grammatical Errors.md"
               }
             }
           },
@@ -158,27 +159,28 @@
   },
   "active": "86ac3849b62feeb6",
   "lastOpenFiles": [
-    "Writing Tips Hub.md",
+    "Grammar Practice.md",
+    "Characterization.md",
+    "Literature Response Writing - Elements of an Essay.md",
+    "Crucible Notes.md",
     "Essay Checklist - Before Submit.md",
+    "Colonialism & Rationalism.md",
+    "Apostrophe Catastrophe.md",
+    "Writing Tips Hub.md",
     "Rationalism.md",
     "Romanticism.md",
     "Introductions & Conclusions & Theses.md",
-    "Literature Response Writing - Elements of an Essay.md",
     "Puritanism.md",
     "The Crucible Pre-Reading.md",
     "Transcendentalism.md",
-    "Crucible Notes.md",
-    "Apostrophe Catastrophe.md",
     "Repeated Grammatical Errors.md",
     "Notes Hub.md",
-    "Characterization.md",
     "Untitled.canvas",
     "Investigating Salem Witch Trials.md",
     "Modernism.md",
     "Salem Witch Trials.md",
     "Post-Modernism.md",
     "Realism.md",
-    "Naturalism.md",
-    "Colonialism & Rationalism.md"
+    "Naturalism.md"
   ]
 }
