@@ -42,4 +42,3 @@ Authors: American's Founding Fathers
 	* Rights of Man
 	* Common Sense
 	* Talks about the fundamental rights of human agency
-	* 

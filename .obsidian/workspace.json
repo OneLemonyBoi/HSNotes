@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fe2d101f888ea1f",
+        "id": "fd829d704fee3dab",
         "type": "tabs",
         "children": [
           {
-            "id": "2c667921694b3987",
+            "id": "70d4aa5efd14c7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Romanticism.md",
+                "file": "Rationalism.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Romanticism.md",
+                "file": "Rationalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Romanticism.md",
+                "file": "Rationalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Romanticism.md"
+                "file": "Rationalism.md"
               }
             }
           },
@@ -156,11 +156,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c667921694b3987",
+  "active": "70d4aa5efd14c7b8",
   "lastOpenFiles": [
+    "Realism.md",
+    "Rationalism.md",
+    "Naturalism.md",
+    "Post-Modernism.md",
+    "Romanticism.md",
     "Apostrophe Catastrophe.md",
     "Repeated Grammatical Errors.md",
-    "Romanticism.md",
     "Grammar Practice.md",
     "Characterization.md",
     "Literature Response Writing - Elements of an Essay.md",
@@ -168,7 +172,6 @@
     "Essay Checklist - Before Submit.md",
     "Colonialism & Rationalism.md",
     "Writing Tips Hub.md",
-    "Rationalism.md",
     "Introductions & Conclusions & Theses.md",
     "Puritanism.md",
     "The Crucible Pre-Reading.md",
@@ -177,9 +180,6 @@
     "Untitled.canvas",
     "Investigating Salem Witch Trials.md",
     "Modernism.md",
-    "Salem Witch Trials.md",
-    "Post-Modernism.md",
-    "Realism.md",
-    "Naturalism.md"
+    "Salem Witch Trials.md"
   ]
 }

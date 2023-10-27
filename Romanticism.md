@@ -43,4 +43,3 @@
 	* City makes us forget the sheer power and beauty of nature
 		* Saw cities as dirty and corrupt
 	* To romanticize is to idealize
-		* 

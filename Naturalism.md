@@ -1,10 +1,10 @@
-* Main Themes - Minji
+* Main Themes
 	* “pessimistic materialistic determinism,” as defined by George Becker
 	* American literature that involves naturalism tends to involve relatively mundane and low/middle class characters, exploring their lack of free will in a certain society
 		* Slice of Life but depressing
 	* Tends to take place in urban environments or nature
 	* Man vs Himself or Man vs Nature tend to be the conflict categorizations
-* History - Anish
+* History
 	* Emile Zola, labeled as the founder of Literary Naturalism, first defined the term Naturalism in his 1880 novel “The Experimental Novel”
 	* Naturalism was positioned as antithetical to [[Romanticism]] and was considered an extreme form of [[Realism]]
 	* Zola used naturalism as a guide on how to create characters and portray France in the late 1800s
@@ -16,7 +16,7 @@
 		* Realized it was new kind of naturalism
 	* Reached prevalence in the US near the early 1900s, with numerous prevalent authors writing stories with naturalistic themes, like Theodore Dreiser and Stephen Crane, and lasted till around WWII
 		* Modernism became all the rage
-* Famous Scholars - Aabyr 
+* Famous Scholars 
 	* Herbert Spencer
 		* Creator of term, “Survival of the fittest
 		* Made term after reading 1859 book called Origin of Species by Charles Darwin.
@@ -27,7 +27,7 @@
 		* Explored and preserved the Sierra Nevada
 		* Believed that nature was something to be preserved and not messed with.
 		* Frank Norris(Journalist and novelist who predominantly wrote in naturalist genre)
-* Famous Pieces of Literature - Aabyr
+* Famous Pieces of Literature 
 	* To Build A Fire By Jack London
 		* Man is alone in the Yukon, ignores warnings to go to meet his prospecting friends and ends up falling into snow
 		* Manages to build a fire, but all his attempts are quickly extinguished 
