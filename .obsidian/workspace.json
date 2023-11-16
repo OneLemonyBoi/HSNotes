@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70d4aa5efd14c7b8",
+            "id": "53424465ff1f5ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rationalism.md",
+                "file": "Romanticism.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rationalism.md",
+                "file": "Romanticism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rationalism.md",
+                "file": "Romanticism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rationalism.md"
+                "file": "Romanticism.md"
               }
             }
           },
@@ -156,13 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70d4aa5efd14c7b8",
+  "active": "53424465ff1f5ac1",
   "lastOpenFiles": [
+    "Naturalism.md",
     "Realism.md",
     "Rationalism.md",
-    "Naturalism.md",
-    "Post-Modernism.md",
     "Romanticism.md",
+    "John Green Writing & Reading.md",
+    "Post-Modernism.md",
     "Apostrophe Catastrophe.md",
     "Repeated Grammatical Errors.md",
     "Grammar Practice.md",
