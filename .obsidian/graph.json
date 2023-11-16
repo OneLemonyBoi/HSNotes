@@ -6,17 +6,39 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Writing Tips\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "section:(puritan)",
+      "color": {
+        "a": 1,
+        "rgb": 16774533
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 2.93996539792388,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.323529411764706,
-  "repelStrength": 8.26989619377163,
+  "centerStrength": 0.527681660899654,
+  "repelStrength": 11.7301038062284,
   "linkStrength": 1,
-  "linkDistance": 128,
-  "scale": 0.5606785655178947,
+  "linkDistance": 187,
+  "scale": 0.759945412774595,
   "close": false
 }

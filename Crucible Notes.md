@@ -9,7 +9,7 @@
 		* Abigail was calling John Proctor out
 		* John Proctor was denying the fact that they did it together
 	* Rebecca Nurse - Town Grandma - Someone you can trust and confided in
-		* Very devout member of Puritan church
+		* Very devout member of [[Puritanism]] church
 * Act II
 	* Proctor home env is very cold (33)
 	* John Proctor and Elizabeth know that the girls are lying (54-55)

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd829d704fee3dab",
+        "id": "2f00d1543ac1e201",
         "type": "tabs",
         "children": [
           {
-            "id": "53424465ff1f5ac1",
+            "id": "9f86ef7b3ecb48f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apostrophe Catastrophe.md",
+                "file": "Colonialism & Rationalism.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apostrophe Catastrophe.md",
+                "file": "Colonialism & Rationalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apostrophe Catastrophe.md",
+                "file": "Colonialism & Rationalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apostrophe Catastrophe.md"
+                "file": "Colonialism & Rationalism.md"
               }
             }
           },
@@ -156,25 +156,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53424465ff1f5ac1",
+  "active": "9f86ef7b3ecb48f3",
   "lastOpenFiles": [
-    "Writing Tips Hub.md",
-    "Apostrophe Catastrophe.md",
-    "Introductions & Conclusions & Theses.md",
-    "Investigating Salem Witch Trials.md",
-    "Crucible Notes.md",
+    "Untitled.md",
     "Colonialism & Rationalism.md",
-    "Characterization.md",
     "Romanticism.md",
+    "Writing Tips/Active & Passive Voice.md",
+    "Writing Tips",
+    "Writing Tips/Introductions & Conclusions & Theses.md",
+    "Crucible Notes.md",
+    "John Green Writing & Reading.md",
+    "Writing Tips Hub.md",
+    "Writing Tips/Apostrophe Catastrophe.md",
+    "Investigating Salem Witch Trials.md",
+    "Writing Tips/Characterization.md",
     "Naturalism.md",
     "Realism.md",
     "Rationalism.md",
-    "John Green Writing & Reading.md",
     "Post-Modernism.md",
-    "Repeated Grammatical Errors.md",
+    "Writing Tips/Repeated Grammatical Errors.md",
     "Grammar Practice.md",
-    "Literature Response Writing - Elements of an Essay.md",
-    "Essay Checklist - Before Submit.md",
+    "Writing Tips/Literature Response Writing - Elements of an Essay.md",
+    "Writing Tips/Essay Checklist - Before Submit.md",
     "Puritanism.md",
     "The Crucible Pre-Reading.md",
     "Transcendentalism.md",
