@@ -5,3 +5,4 @@
 [[Introductions & Conclusions & Theses]]
 [[Essay Checklist - Before Submit]]
 [[Active & Passive Voice]]
+[[Thesis Statements]]
