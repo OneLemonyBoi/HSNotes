@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing Tips Hub.md",
+                "file": "Writing Tips/Essay Checklist - Before Submit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing Tips/Thesis Statements.md",
+                "file": "Writing Tips/Essay Checklist - Before Submit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing Tips/Thesis Statements.md",
+                "file": "Writing Tips/Essay Checklist - Before Submit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing Tips/Thesis Statements.md"
+                "file": "Writing Tips/Essay Checklist - Before Submit.md"
               }
             }
           },
@@ -168,12 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f86ef7b3ecb48f3",
+  "active": "21e52437c2d32e7b",
   "lastOpenFiles": [
-    "Writing Tips/Introductions & Conclusions & Theses.md",
-    "Colonialism & Rationalism.md",
     "Writing Tips Hub.md",
     "Writing Tips/Thesis Statements.md",
+    "Writing Tips/Introductions & Conclusions & Theses.md",
+    "Colonialism & Rationalism.md",
     "Untitled.md",
     "Romanticism.md",
     "Writing Tips/Active & Passive Voice.md",

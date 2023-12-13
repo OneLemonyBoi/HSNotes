@@ -9,3 +9,6 @@
 - [ ] Grammarly it to check for **spelling issues ONLY**
 - [ ] Check for Passive Voice
 - [ ] Avoid Be Verbs - Is, Am, Are, Was, Were, Be, Being, Been
+	- [ ] Hemingway Editor
+- [ ] Make sure there are no redundant parts (Check JR Resources)
+- [ ] Avoid using humans
