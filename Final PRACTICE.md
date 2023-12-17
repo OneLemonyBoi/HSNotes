@@ -2,8 +2,12 @@ Unit 2:
 - [ ] Types of Chemical Bonds
 - [ ] Resonant Structure
 - [ ] Formal Charge
-- [ ] VSEPR
+- [ ] **VSEPR**
+	- [ ] AX2E - 104.5 degrees
+	- [ ] AX3E - 107.3 degrees
+	- [ ] AX4 - 109.5 degrees
 - [ ] Polar Bond Number Line
+- [ ] **Chart Trends!!!!**
 Unit 3:
 - [ ] LIGHT IMF Practice
 - [ ] Types of Solids
@@ -19,3 +23,5 @@ Unit 6:
 - [ ] Bond Enthalpies
 - [ ] Enthalpy of Formation
 - [ ] Hess's Law
+
+REMEMBER TO COVER THAT WEIRD RULE OVER HOW TO EXPLAIN AND PROVE (ELECTRON INTERFERENCE)
