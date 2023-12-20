@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2f00d1543ac1e201",
+        "id": "39a03a82527abbd0",
         "type": "tabs",
         "children": [
           {
-            "id": "21e52437c2d32e7b",
+            "id": "a7c030f270e3c1c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing Tips/Essay Checklist - Before Submit.md",
+                "file": "Writing Tips/Repeated Grammatical Errors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing Tips/Essay Checklist - Before Submit.md",
+                "file": "Writing Tips/Repeated Grammatical Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing Tips/Essay Checklist - Before Submit.md",
+                "file": "Writing Tips/Repeated Grammatical Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing Tips/Essay Checklist - Before Submit.md"
+                "file": "Writing Tips/Repeated Grammatical Errors.md"
               }
             }
           },
@@ -156,32 +156,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21e52437c2d32e7b",
+  "active": "a7c030f270e3c1c4",
   "lastOpenFiles": [
-    "Writing Tips/Introductions & Conclusions & Theses.md",
-    "Writing Tips/Essay Checklist - Before Submit.md",
     "Writing Tips/Literature Response Writing - Elements of an Essay.md",
-    "Writing Tips/Repeated Grammatical Errors.md",
-    "Writing Tips/Thesis Statements.md",
-    "Writing Tips/Active & Passive Voice.md",
     "Writing Tips/Apostrophe Catastrophe.md",
+    "Writing Tips/Active & Passive Voice.md",
     "Writing Tips/Characterization.md",
+    "Writing Tips/Essay Checklist - Before Submit.md",
+    "Writing Tips/Thesis Statements.md",
+    "Transcendentalism.md",
+    "Romanticism.md",
+    "Rationalism.md",
+    "Puritanism.md",
+    "Writing Tips/Introductions & Conclusions & Theses.md",
+    "Writing Tips/Repeated Grammatical Errors.md",
     "Untitled.md",
     "Writing Tips Hub.md",
     "Colonialism & Rationalism.md",
-    "Romanticism.md",
     "Writing Tips",
     "Crucible Notes.md",
     "John Green Writing & Reading.md",
     "Investigating Salem Witch Trials.md",
     "Naturalism.md",
     "Realism.md",
-    "Rationalism.md",
     "Post-Modernism.md",
     "Grammar Practice.md",
-    "Puritanism.md",
     "The Crucible Pre-Reading.md",
-    "Transcendentalism.md",
     "Notes Hub.md",
     "Untitled.canvas",
     "Modernism.md",

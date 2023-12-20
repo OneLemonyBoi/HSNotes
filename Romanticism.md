@@ -20,7 +20,7 @@
 	* Romanticism still used today, making life more interesting
 * Overdramatized Dark Beauty
 * Literary Movement
-	* Began in 18th century Western Eurpe
+	* Began in 18th century Western Europe
 	* Grew during the Industrial Revolution
 	* Reaction against cold and harsh industrial world - very different from life before the revolution
 		* Believed it was a move in the wrong direction

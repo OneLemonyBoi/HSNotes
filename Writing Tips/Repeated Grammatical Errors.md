@@ -42,5 +42,5 @@
 	* apart -> separated from something
 * lie vs lay
 	* present | past | present participle | past participle
-	* lie -> lay -> lying -> has lain
-	* lay -> laid -> laying -> has laid
+	* lie -> lay -> lying -> had lain
+	* lay -> laid -> laying -> had laid

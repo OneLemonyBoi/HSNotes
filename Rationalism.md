@@ -29,7 +29,7 @@ Genre & Style
 	* Helps unify people by seeing them as American
 * Essays common
 * Fiction was very rare
-* Ornate writing style was used as an example of discipline
+* Ornate writing style wasn't used as an example of discipline
 	* BORING!
 Authors: American's Founding Fathers
 * Ben Franklin autobiography is shockingly common
